@@ -9,21 +9,19 @@ There are full documentations for developers for this particular project, but be
 
 <h2>HTTP Request</h2>
 
-...php
-
+```json
 POST https://operasional.fisika.fst.unair.ac.id/api/register
-
-...
+```
 
 <h2>Request Body</h2>
 
-...php
+```json
 {
     "username": "string",
     "email": "email",
     "password": "{your password}"
 }
-...
+```
 
 
 
